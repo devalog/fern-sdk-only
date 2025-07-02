@@ -38,8 +38,8 @@ export class DevinApiClient {
                 {
                     "X-Fern-Language": "JavaScript",
                     "X-Fern-SDK-Name": "devin-unique-package",
-                    "X-Fern-SDK-Version": "2.0.1",
-                    "User-Agent": "devin-unique-package/2.0.1",
+                    "X-Fern-SDK-Version": "2.0.2",
+                    "User-Agent": "devin-unique-package/2.0.2",
                     "X-Fern-Runtime": core.RUNTIME.type,
                     "X-Fern-Runtime-Version": core.RUNTIME.version,
                 },
